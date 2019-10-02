@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "Ariel Blog, Ariel的博客, Ji Hongyu, 冀宏宇, Web前端, H5移动端"
 url: "http://Arieljhy.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Arieljhy/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/Arieljhy/Arieljhy.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -23,7 +23,7 @@ zhihu_username:     ariel-31-58
 github_username:    Arieljhy
 facebook_username:  null
 jianshu_username:   2ca3b53a4237
-twitter_username:   qiubaiying
+#twitter_username:   qiubaiying
 
 
 
