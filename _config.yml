@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: Ariel Blog
 SEOTitle: Ariel的博客 | BY Blog
 header-img: img/me.png
 email: Ariel_jhy@163.com
@@ -18,11 +18,11 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     ariel-31-58/activities
+weibo_username:     Ariel羽之翼
+zhihu_username:     ariel-31-58
 github_username:    Arieljhy
-facebook_username:  null
-jianshu_username:   Ariel_jhy
+#facebook_username:  null
+jianshu_username:   2ca3b53a4237
 #twitter_username:   qiubaiying
 
 
